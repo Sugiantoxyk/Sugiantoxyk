@@ -1,4 +1,4 @@
-👋 Hi there! I'm Sugianto
+![Sugianto Banner](https://github.com/Sugiantoxyk/Sugiantoxyk/blob/main/assets/banner.png)
 
 ### About me
 
