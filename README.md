@@ -6,6 +6,8 @@ I am a recent graduate with a Bachelor's degree in Computer Science from Nanyang
 
 Specialization: Artificial Intelligence, Data Science & Analytics
 
+<img alt="Specialization" src="https://github.com/Sugiantoxyk/Sugiantoxyk/blob/main/assets/specialization.gif" width="50%"/>
+
 ### Connect with Me
 
 <a href="https://www.linkedin.com/in/sugianto-xin-29276bb3/"><img src="https://img.shields.io/badge/-Sugianto-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
