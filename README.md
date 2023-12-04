@@ -30,6 +30,7 @@ Specialization: Artificial Intelligence, Data Science & Analytics
 ### Software Applications
 
 ![Figma](https://img.shields.io/badge/Figma-8A38F5?style=for-the-badge&logo=Figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-2480F8?style=for-the-badge&logo=Jira&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-EA4E30?style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-3AA4EC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
