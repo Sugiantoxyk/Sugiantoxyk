@@ -4,6 +4,8 @@
 
 I am a recent graduate with a Bachelor's degree in Computer Science from Nanyang Technological University. I am passionate about software development and have hands-on experience in creating Web Applications and Mobile Applications for both iOS and Android platforms. I am eager to leverage my skills and contribute to innovative projects in a professional setting.
 
+📄 Please have a look at my [Résumé](https://github.com/Sugiantoxyk/Sugiantoxyk/blob/main/assets/Sugianto_resume.pdf) for more details about me. I'm open to feedback and suggestions!
+
 Specialization: Artificial Intelligence, Data Science & Analytics
 
 <img alt="Specialization" src="https://github.com/Sugiantoxyk/Sugiantoxyk/blob/main/assets/specialization.gif" width="50%"/>
@@ -39,9 +41,9 @@ Specialization: Artificial Intelligence, Data Science & Analytics
 
 ### Interests
 
-- Sports (🏸 Badminton, 🏀 Basketball, 🤾🏻‍♂️ Tchoukball)
-- 🎨 DIY
-- 🎣 Fishing
+Sports (🏸 Badminton, 🏀 Basketball, 🤾🏻‍♂️ Tchoukball)\
+🎨 DIY\
+🎣 Fishing
 
 <!--
 **Sugiantoxyk/Sugiantoxyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
