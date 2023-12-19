@@ -4,6 +4,7 @@
 
 I am a recent graduate with a Bachelor's degree in Computer Science from Nanyang Technological University. I am passionate about software development and have hands-on experience in creating Web Applications and Mobile Applications for both iOS and Android platforms. I am eager to leverage my skills and contribute to innovative projects in a professional setting.
 
+🚀 Explore my [Portfolio](https://sugiantoxyk.github.io/) to see my development journey!\
 📄 Please have a look at my [Résumé](https://github.com/Sugiantoxyk/Sugiantoxyk/blob/main/assets/Sugianto_resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 Specialization: Artificial Intelligence, Data Science & Analytics
