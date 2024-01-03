@@ -2,7 +2,8 @@
 
 ### About me
 
-I recently graduated with a Bachelor's degree in Computer Science from Nanyang Technological University. I am passionate about software development and have hands-on experience in creating Web Applications and Mobile Applications for both iOS and Android platforms. I am eager to leverage my skills and contribute to innovative projects professionally
+I recently graduated with a Bachelor's degree in Computer Science from Nanyang Technological University. I am passionate about software development and have hands-on experience in creating Web Applications and Mobile Applications for both iOS and Android platforms. I am eager to leverage my skills and contribute to innovative projects professionally.
+
 🚀 Explore my [Portfolio](https://sugiantoxyk.github.io/) to see my development journey!\
 📄 Please have a look at my [Résumé](https://sugiantoxyk.github.io/Sugianto_resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
